@@ -101,19 +101,19 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
     <div class="w3-row w3-center w3-dark-grey w3-padding-16 w3-section">
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">14+</span><br>
+        <span class="w3-xlarge">55+</span><br>
         Partners
       </div>
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">55+</span><br>
+        <span class="w3-xlarge">11+</span><br>
         Projects Done
       </div>
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">89+</span><br>
+        <span class="w3-xlarge">99543+</span><br>
         Happy Clients
       </div>
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">150+</span><br>
+        <span class="w3-xlarge">7678+</span><br>
         Meetings
       </div>
     </div>
