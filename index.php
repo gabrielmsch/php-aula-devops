@@ -47,8 +47,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-center" style="padding:128px 16px" id="home">
     <h1 class="w3-jumbo"><b>Isabella Schaefer</b></h1>
     <p>Ajude as crianças com fome.</p>
-    <img src="https://www.grupoescolar.com/galeria/fotos/D424FF8D1.jpg" class="w3-image w3-hide-large w3-hide-small w3-round" style="display:block;width:60%;margin:auto;">
-    <img src="https://www.grupoescolar.com/galeria/fotos/D424FF8D1.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="1000" height="1333">
+    <img src="/w3images/profile_girl.jpg" class="w3-image w3-hide-large w3-hide-small w3-round" style="display:block;width:60%;margin:auto;">
+    <img src="/w3images/profile_girl.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="1000" height="1333">
     <button class="w3-button w3-light-grey w3-padding-large w3-margin-top">
       <i class="fa fa-download"></i> Download Resume
     </button>
@@ -56,13 +56,13 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
   <!-- Portfolio Section -->
   <div class="w3-padding-32 w3-content" id="portfolio">
-    <h2 class="w3-text-grey">My Portfolio</h2>
+    <h2 class="w3-text-grey">Salve Vidas</h2>
     <hr class="w3-opacity">
 
     <!-- Grid for photos -->
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
-        <img src="/w3images/wedding.jpg" style="width:100%">
+        <background-image: url ('https://vakinha-site.s3.amazonaws.com/uploads/bootsy/image/27174/medium_article-1220911-00029A3E00000258-750_468x286.jpg'); min-height: 100%;
         <img src="/w3images/rocks.jpg" style="width:100%">
         <img src="/w3images/sailboat.jpg" style="width:100%">
       </div>
@@ -101,19 +101,19 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
     <div class="w3-row w3-center w3-dark-grey w3-padding-16 w3-section">
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">55+</span><br>
+        <span class="w3-xlarge">14+</span><br>
         Partners
       </div>
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">11+</span><br>
+        <span class="w3-xlarge">55+</span><br>
         Projects Done
       </div>
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">99543+</span><br>
+        <span class="w3-xlarge">89+</span><br>
         Happy Clients
       </div>
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">7678+</span><br>
+        <span class="w3-xlarge">150+</span><br>
         Meetings
       </div>
     </div>
@@ -184,9 +184,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <hr class="w3-opacity">
 
     <div class="w3-section">
-      <p><i class="fa fa-map-marker fa-fw w3-xxlarge w3-margin-right"></i> Chicago, US</p>
-      <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Phone: +00 151515</p>
-      <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: mail@mail.com</p>
+      <p><i class="fa fa-map-marker fa-fw w3-xxlarge w3-margin-right"></i> São Paulo, BR</p>
+      <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Tel: +55 11 998274-0001</p>
+      <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: isasosafrica@gmail.com</p>
     </div>
     
     <!-- Image of location/map -->
