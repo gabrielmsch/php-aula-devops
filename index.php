@@ -13,7 +13,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('/w3images/profile_girl.jpg');
+  background-image: url('https://vakinha-site.s3.amazonaws.com/uploads/bootsy/image/27174/medium_article-1220911-00029A3E00000258-750_468x286.jpg');
   min-height: 100%;
 }
 </style>
